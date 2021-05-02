@@ -67,7 +67,6 @@ module.exports = {
                 title
                 description
                 siteUrl
-                bannerImg
                 site_url: siteUrl
               }
             }
